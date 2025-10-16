@@ -1,6 +1,10 @@
-# Traitor
+# Traitor 
 
-Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy! iiirrraaa
+<<<<<<< HEAD
+Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy! 
+
+Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!(16.10.25.шш)
+
 
 Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities in order to pop a root shell:
 
